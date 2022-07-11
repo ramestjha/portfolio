@@ -1,0 +1,28 @@
+.con {
+  background-color: #000;
+}
+.items {
+  margin-left: 75%;
+}
+.colcon {
+  height: 610px;
+}
+.text {
+  color: yellow;
+  margin-top: 5%;
+}
+
+.img {
+  background-image: url(/public/img/mayank.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.cl {
+  color: yellow;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+.but {
+  margin-left: 5%;
+  margin-top: 5%;
+}

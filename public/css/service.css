@@ -1,0 +1,49 @@
+.items {
+  margin-left: 75%;
+}
+.cl {
+  color: yellow;
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+.img {
+  background-image: url(/public/img/bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  width: 100%;
+  height: 700px;
+}
+.concar {
+  width: 50%;
+  height: 190px;
+  display: inline-flex;
+  margin-top: 10%;
+  margin-left: 2%;
+}
+.concar1 {
+  margin-left: 48%;
+}
+.carim {
+  background-image: url(/public/img/w.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.carim1 {
+  background-image: url(/public/img/w1.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.concard {
+  width: 30%;
+  height: 150px;
+  margin-top: 15%;
+  margin-left: 35%;
+}
+.carim2 {
+  background-image: url(/public/img/con.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
