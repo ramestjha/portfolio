@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  /* background-color: #140941; */
+  background-color: #000;
+  color: #f6003f;
+  font-family: "Playfair Display", serif;
+}
+.nav {
+  background-color: rgba(255, 0, 0, 0.5);
+  color: #f6003f;
+}
+#navbarNav ul li a {
+  color: #f6003f;
+  font-size: 3vh;
+}
+.navbar-brand {
+  color: #f6003f;
+  font-size: 3vh;
+}
+p {
+  text-align: justify;
+}
+.header .card {
+  background-color: #000;
+}
+.header ul a i {
+  color: #f6003f;
+}
+i {
+  padding-top: 5%;
+  padding-left: 8%;
+  font-size: 30px;
+  transition: 0.5s ease-in-out;
+}
+.header i:hover {
+  transform: rotate(360deg);
+}
+h2 {
+  text-align: center;
+  padding: 3%;
+}
+.img {
+  width: 50%;
+}
+.card {
+  padding: 5%;
+  text-align: center;
+  font-size: 5vh;
+}
+.skill .card {
+  margin-top: 5%;
+}
+.project .card {
+  margin-top: 5%;
+}
+.skill .card:hover {
+  background-color: #f6003f;
+  color: #fff;
+}
+.project .card {
+  padding: 10%;
+}
+.dot {
+  border-left: 3px solid #f6003f;
+  padding-left: 5%;
+  margin-left: 3%;
+}
+.rounded-circle {
+  border: 2px solid red;
+  height: 20px;
+  width: 20px;
+  background-color: #f6003f;
+  font-size: 5vh;
+}
+.exprience p {
+  font-size: 10px;
+}
+.exprience h4 {
+  font-size: 3vh;
+}
+.contact i {
+  font-size: 10vh;
+  justify-content: center;
+  margin-right: 5%;
+}
+.contact p {
+  font-size: 25px;
+  text-align: center;
+}
+.contact .card {
+  margin-top: 2%;
+}
